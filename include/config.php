@@ -14,10 +14,10 @@ $accesspassword='CHANGE ME'; //set this up in bot as well, for accessing /cost.p
 
 //** DATABASE **//
 $db=array( //mysql credentials
-	'host'		=>		'156.67.73.151',
-	'user'		=>		'u853513044_G',
-	'pass'		=>		'nhqNgDd8T#',
-	'name'		=>		'u853513044_truckcoy',
+	'host'		=>		'123.45.67.890',
+	'user'		=>		'u111111111_G',
+	'pass'		=>		'nh111gDd8T#',
+	'name'		=>		'u111111111_jackpot',
 );
 
 //** SITE DETAILS (URL/NAME/DESCRIPTION) **//
@@ -36,7 +36,7 @@ $site=array(
 );
 
 $adminslist=array(
-		'ADMIN STEAM ID', // people that can access /admin.php while logged in
+		'1234567890123456', // people that can access /admin.php while logged in
 		''
 	);
 
