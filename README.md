@@ -1,0 +1,3 @@
+# csgojackpot
+
+Project outdated
